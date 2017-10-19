@@ -1,2 +1,2 @@
 # Horuga
-	![Juooga](https://github.com/Horuga/horuga/images/horuga.png)
+	![Juooga](https://raw.githubusercontent.com/Horuga/horuga/master/images/horuga.png)
