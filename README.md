@@ -1,2 +1,2 @@
-# horuga
+# Horuga
 Horuga Website
