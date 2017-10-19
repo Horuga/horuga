@@ -1,2 +1,2 @@
 # Horuga
-	![HORUGA](/images/horuga.png)
+	[HORUGA](/images/horuga.png)
