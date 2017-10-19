@@ -1,2 +1,3 @@
 # Horuga
-	[HORUGA](images/horuga.png)
+
+![Horuga](images/horuga.png)
