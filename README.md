@@ -11,7 +11,7 @@
 
 [Google Fonts]https://www.google.com/fonts/
 
-[Icomoon]https://icomoon.io/app/
+[Icomoon](https://icomoon.io/app/
 
 [Respond JS](https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
