@@ -11,7 +11,7 @@ http://gsgd.co.uk/sandbox/jquery/easing/
 [Modernizr
 http://modernizr.com/
 
-Google Fonts
+[Google Fonts
 https://www.google.com/fonts/
 
 Icomoon
