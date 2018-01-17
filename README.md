@@ -26,5 +26,3 @@ http://daneden.me/animate
 [Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
-Demo Images: 
-http://unsplash.com/
