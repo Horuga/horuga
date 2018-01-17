@@ -17,6 +17,5 @@
 
 [animate.css]http://daneden.me/animate
 
-[Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+[Owl Carousel]http://www.owlcarousel.owlgraphic.com/
 
