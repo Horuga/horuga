@@ -5,7 +5,7 @@
 
 [jQuery http://jquery.com/
 
-jQuery Easing
+[jQuery Easing
 http://gsgd.co.uk/sandbox/jquery/easing/
 
 Modernizr
