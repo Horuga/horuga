@@ -8,7 +8,7 @@
 [jQuery Easing
 http://gsgd.co.uk/sandbox/jquery/easing/
 
-Modernizr
+[Modernizr
 http://modernizr.com/
 
 Google Fonts
