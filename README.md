@@ -15,7 +15,7 @@
 
 [Respond JS]https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
-[animate.css]http://daneden.me/animate
+[animate.css](http://daneden.me/animate
 
 [Owl Carousel](http://www.owlcarousel.owlgraphic.com/
 
