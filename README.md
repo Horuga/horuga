@@ -23,7 +23,7 @@ https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 [animate.css
 http://daneden.me/animate
 
-Owl Carousel
+[Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
 Demo Images: 
