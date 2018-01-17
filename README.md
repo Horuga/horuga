@@ -14,7 +14,7 @@ http://modernizr.com/
 [Google Fonts
 https://www.google.com/fonts/
 
-Icomoon
+[Icomoon
 https://icomoon.io/app/
 
 Respond JS
