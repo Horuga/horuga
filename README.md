@@ -17,7 +17,7 @@ https://www.google.com/fonts/
 [Icomoon
 https://icomoon.io/app/
 
-Respond JS
+[Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
 animate.css
